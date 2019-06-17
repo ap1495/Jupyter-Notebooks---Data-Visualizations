@@ -5,4 +5,3 @@ Notebooks that contain interactive plotly visualizations have a link to nbViewer
 List of projects that contain interactive plotly visualizations.
 - 2018 Kaggle Survey
 - EPL 2011 - 2018
-- UB Group Chat
